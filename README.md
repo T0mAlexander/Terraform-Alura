@@ -108,5 +108,5 @@ terraform login
 <details>
   <summary>Captura de tela</summary>
 
-  ![Credenciais de segurança da AWS]()
+  ![Credenciais de segurança da AWS](https://github.com/T0mAlexander/Terraform-Alura/blob/screenshots/aws%20security%20credentials.png?raw=true)
 </details>

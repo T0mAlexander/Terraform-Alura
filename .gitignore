@@ -1,0 +1,12 @@
+# Folders
+.infracost/
+.terraform/
+
+# Key and Tokens
+*.pub
+terraform.rc
+
+# Sensitive files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
